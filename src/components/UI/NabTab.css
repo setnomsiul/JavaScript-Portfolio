@@ -1,0 +1,23 @@
+.tab-body {
+  background-color: #282c34;
+  color: white;
+}
+
+.tab-content {
+  background-color: #282c34;
+}
+
+.bio-title {
+  margin-top: 1em;
+}
+
+.bio-description {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+ul li a {
+  font-family: "ubuntu," san-serif;
+  font-size: 2em;
+  color: orange;
+}
