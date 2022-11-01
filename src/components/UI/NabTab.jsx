@@ -53,12 +53,9 @@ function NabTab() {
           aria-labelledby="home-tab"
         >
           <div className="container">
-            <h1 className="bio-title">Who am I</h1>
+            <h1 className="bio-title">AD Enterprice</h1>
             <p className="bio-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reprehenderit et repudiandae ipsam dolorem neque ad aperiam labore
-              rem aliquid molestiae quae adipisci autem dignissimos dolores
-              culpa asperiores, a corporis suscipit?
+              Futuristic Commpany that will revolutionise the website development in 2030's.
             </p>
           </div>
         </div>

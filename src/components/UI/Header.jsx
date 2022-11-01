@@ -34,7 +34,7 @@ function Header() {
             <span style={{ color: "red" }}>&lt;</span>Development
             <span style={{ color: "red" }}>&gt;</span>
             <br />
-            Out of this World!
+            Explore!
           </h1>
         </div>
       </div>
